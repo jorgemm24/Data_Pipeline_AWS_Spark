@@ -9,7 +9,7 @@ Este proyecto consiste en realizar un pipeline y un dasbhoard de la información
 ## Arquitectura
 [![Arquitectura.png](https://i.postimg.cc/VkPN0KBc/Arquitectura.png)](https://postimg.cc/HV3mf4hS)
 
-##Herramientas utilizadas
+## Herramientas utilizadas
 
     - Databricks Comunnity: Spark, Pyspark
     - AWS capa gratuita: S3, Athena, RDS MySQL, IAM, VPC
@@ -80,3 +80,7 @@ Este proyecto consiste en realizar un pipeline y un dasbhoard de la información
     - AWS Glue (para orquestar) u otro orquestador
     - AWS Lambda (para encender o apagar servicios)
     - Boto3 y EC2 para cargar archivos Stage
+
+## Mail:
+- ztejorge@hotmail.com
+- Si deseas el archivo power bi, escribeme al mail.
