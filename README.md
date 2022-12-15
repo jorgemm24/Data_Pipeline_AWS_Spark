@@ -64,7 +64,7 @@ Este proyecto consiste en realizar un pipeline y un dasbhoard de la información
 
 - Finalmente se crea un dashboard en Power BI
 
-[![BI-1.png](https://i.postimg.cc/qvQMrVDR/BI-1.png)](https://postimg.cc/18nZ0TQh)
+[![BI-1.png](https://i.postimg.cc/DfBWx792/BI-1.png)](https://postimg.cc/8sfP5gk3)
 
 [![BI-2.png](https://i.postimg.cc/8cGqssjV/BI-2.png)](https://postimg.cc/ZBffMb8f)
 
