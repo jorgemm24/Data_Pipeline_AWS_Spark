@@ -76,10 +76,10 @@ Este proyecto consiste en realizar un pipeline y un dasbhoard de la información
 
 
 ## Para una siguiente proyecto:
-    - Secret Manager (administrar claves)
-    - AWS Glue (para orquestar) u otro orquestador
-    - AWS Lambda (para encender o apagar servicios)
-    - Boto3 y EC2 para cargar archivos Stage
+    - Secret Manager (administrar claves).
+    - AWS Glue (para orquestar) u otro orquestador.
+    - AWS Lambda (para encender o apagar servicios).
+    - Boto3 y EC2 para cargar archivos Stage.
 
 ## Mail:
 - ztejorge@hotmail.com
