@@ -9,7 +9,7 @@ Este proyecto consiste en realizar un pipeline y un dasbhoard de la información
 ## Arquitectura
 [![Arquitectura.png](https://i.postimg.cc/VkPN0KBc/Arquitectura.png)](https://postimg.cc/HV3mf4hS)
 
-## Herramientas utilizadas
+## Tecnologias y herramientas utilizadas
 
     - Databricks Comunnity: Spark, Pyspark
     - AWS capa gratuita: S3, Athena, RDS MySQL, IAM, VPC
