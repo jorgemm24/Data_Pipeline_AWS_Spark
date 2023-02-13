@@ -1,4 +1,4 @@
-## Data Pipeline y BI
+## Data Pipeline & BI
 
 La Empresa AFTO necesita analizar las atenciones de las llamadas de sus clientes.
 
